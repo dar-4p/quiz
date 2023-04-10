@@ -166,7 +166,7 @@ input[type=radio]:checked ~ .option {
 .modal-content-container{
   height: 20rem;
   width: 25rem;
-  background-color: rgb(43, 42, 42);
+  background-color: rgb(184, 13, 13);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -243,7 +243,7 @@ input[type=radio]:checked ~ .option {
       font-size: 0.8rem;
   }
   .modal-content-container{
-      width: 90%;
+      width: 80%;
       height: 25rem;
   }
 
@@ -258,7 +258,7 @@ input[type=radio]:checked ~ .option {
      height: 80vh;
   }
   .game-details-container h1{
-      font-size: 1rem;
+      font-size: 1.5rem;
   }
 
   .game-question-container{
@@ -266,14 +266,14 @@ input[type=radio]:checked ~ .option {
   }
 
   .game-question-container h1{
-      font-size: 0.9rem;
+      font-size: 1.9rem;
    }
 
   .game-options-container span{
       width: 90%;
   }
   .modal-content-container{
-      width: 90%;
+      width: 70%;
       height: 25rem;
   }
   .modal-content-container h1{
@@ -292,3 +292,5 @@ input[type=radio]:checked ~ .option {
   from {opacity: 0;}
   to {opacity: 1;}
 }
+
+
